@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DWIT News | A News Portal of DWIT 
+</title>
+</head>
+<bodystyle= "background color: lightblue">
+<h1>Welcome To DWIT News
+<img src="index.jpeg" alt="DWIT News.com" width="350" height="142"> </h1>
+<p1>This is a site about the things that happen in DWIT as well as the neighbourhood around it.
+We provide extensive news of the things that you may miss. We are a newsgroup that aim to provide a service to the </p1>
+
+<ul><tr><b>Home  News  Review People Creativity Opinion Health&Lifestyle Book Corner About Us</b></tr></ul>
+<table border ="1" style "width:1500%">
+<tr>
+<thead>Subscribe</thead>
+<td> Editor's Choice </td>
+<td> Photo Choice </td>
+<td> Media Club </td>
+<td> Book Club </td>
+<td> Deer Chautari </td>
+<td> IT Club </td>
+</tr>
+
+
+
+</body>
+</html>

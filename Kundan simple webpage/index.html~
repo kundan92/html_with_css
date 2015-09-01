@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <h1><img src="index.jpeg" alt="DWIT News" style="width:300px;height:100px;"></h1>
+    <title>DWIT News - A News Portal</title>
+    <link href="Kundan simple webpage/style.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <strong>Email: </strong>dwitnews@deerwalk.edu.np
+                    
+                </div>
+
+            </div>
+        </div>
+    </header>
+
+    <section class="menu-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="navbar-collapse collapse ">
+                        <ul id="menu-top" class="nav navbar-nav navbar-right">
+                            <li>Home</a></li>
+                            <li>News</a></li>
+                            <li>Review</a></li>
+                            <li>Creativity</a></li>
+                             <li>Opinion</a></li>
+                            <li> Health&Lifestyle</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    
+    <div class="content-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h4 class="page-head-line">Latest News</h4>
+
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="alert alert-success">
+                        <h3><img src="pic3.jpg" alt="DWIT News" style="width:300px;height:200px;"></h3>
+<h4>
+TU Lack of Concern Can Affect Students Future Success<br>
+By Ashmita Kunwar | On August 17, 2015
+<br>
+Art By: Nikita Gautam
+<br>
+Students effort is directly related to the result they get in the sheet of paper called Mark sheet.
+Though, these days people often say result does not matter if
+<br>Read More
+</h4>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                 <div class="col-md-3 col-sm-3 col-xs-6">
+                    <div class="dashboard-div-wrapper bk-clr-one">
+                        <i  class="fa fa-venus dashboard-div-icon" ></i>
+                        <div class="progress progress-striped active">
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+  </div>
+                           
+</div>
+      <h3><img src="pic4.png" alt="DWIT News" style="width:300px;height:200px;"></h3>
+<h4>
+Deerwalk Says Goodbye to G4S
+<br>
+By Sabin Pathak | On August 17, 2015
+<br>
+Picture By: DWIT News
+<br>
+G4S has been providing security as well as facility services at Deerwalk since its establishment. But, now they will no longer be staying here at Deerwalk and will end their
+<br>Read More
+</h4>
+                    <div class="alert alert-danger">
+                        For more Interesting News, Feel free to browse through our news site.
+                    </div>
+                    
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                     2015 Deerwalk Institute of Technology |                </div>
+
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
